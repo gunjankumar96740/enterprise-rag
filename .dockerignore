@@ -1,0 +1,9 @@
+.venv/
+myenv/
+.git/
+.github/
+__pycache__/
+*.pyc
+.env
+uploaded_*.pdf
+.vscode/
